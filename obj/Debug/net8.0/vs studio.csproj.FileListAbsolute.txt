@@ -1,0 +1,14 @@
+C:\Users\lh0999775\OneDrive\vs studio\obj\Debug\net8.0\vs studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lh0999775\OneDrive\vs studio\obj\Debug\net8.0\vs studio.AssemblyInfoInputs.cache
+C:\Users\lh0999775\OneDrive\vs studio\obj\Debug\net8.0\vs studio.AssemblyInfo.cs
+C:\Users\lh0999775\OneDrive\vs studio\obj\Debug\net8.0\vs studio.csproj.CoreCompileInputs.cache
+C:\Users\lh0999775\OneDrive\vs studio\bin\Debug\net8.0\vs studio.exe
+C:\Users\lh0999775\OneDrive\vs studio\bin\Debug\net8.0\vs studio.deps.json
+C:\Users\lh0999775\OneDrive\vs studio\bin\Debug\net8.0\vs studio.runtimeconfig.json
+C:\Users\lh0999775\OneDrive\vs studio\bin\Debug\net8.0\vs studio.dll
+C:\Users\lh0999775\OneDrive\vs studio\bin\Debug\net8.0\vs studio.pdb
+C:\Users\lh0999775\OneDrive\vs studio\obj\Debug\net8.0\vs studio.dll
+C:\Users\lh0999775\OneDrive\vs studio\obj\Debug\net8.0\refint\vs studio.dll
+C:\Users\lh0999775\OneDrive\vs studio\obj\Debug\net8.0\vs studio.pdb
+C:\Users\lh0999775\OneDrive\vs studio\obj\Debug\net8.0\vs studio.genruntimeconfig.cache
+C:\Users\lh0999775\OneDrive\vs studio\obj\Debug\net8.0\ref\vs studio.dll
