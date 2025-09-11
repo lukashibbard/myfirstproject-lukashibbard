@@ -3,36 +3,20 @@ using System.Reflection.Emit;
 using System.Runtime.InteropServices.Marshalling;
 Console.WriteLine ("what is your first and last name");
 string name = Console.ReadLine ()+ "";
+// line 4 and 5 get the users name and 7 pastes it greeting them
 Console.WriteLine ($"nice to meet you {name}!");
 Console.WriteLine("can you give me 3 numbers one at a time");
-Label1:
 Console.WriteLine("number 1:");
 string blank = " ";
 string xstr = Console.ReadLine() + " ";
-if (xstr == blank)
-{
-    Console.WriteLine("please type somthing");
-    goto Label1;
-}
 int x = Convert.ToInt32(xstr);
-label2:
 Console.WriteLine("number 2:");
 string ystr = Console.ReadLine()+ "";
-if (ystr == blank)
-{
-    Console.WriteLine("please type somthing");
-    goto label2;
-}
 int y = Convert.ToInt32(ystr);
-label3:
 Console.WriteLine("number 3:");
 string zstr = Console.ReadLine() + "";
-if (zstr == blank)
-{
-    Console.WriteLine("please type somthing");
-    goto label3;
-}
 int z = Convert.ToInt32(zstr);
+// lines 11 through 18 collect the three numbers from the user
 int v0 = x + y + z;
 Console.WriteLine (v0);
 int v1 = y - x;
@@ -43,3 +27,4 @@ int v3 = v0 / y;
 Console.WriteLine (v3);
 int v4 = x % v1;
 Console.WriteLine (v4);
+// lines 20 through 29 send the different var through a seri
